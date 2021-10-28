@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/EMRM_Detection_data/images/train/
+val: /content/drive/MyDrive/EMRM_Detection_data/images/val/
+
+# number of classes
+nc:6
+
+# class names
+names: [ '윤지원', '안가희', '우혜라', '김예림', '유윤진', '김재원']
